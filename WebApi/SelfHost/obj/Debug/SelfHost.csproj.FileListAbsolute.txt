@@ -1,0 +1,12 @@
+F:\git\TestWebApi\WebApi\WebApi\SelfHost\bin\Debug\SelfHost.exe.config
+F:\git\TestWebApi\WebApi\WebApi\SelfHost\bin\Debug\SelfHost.exe
+F:\git\TestWebApi\WebApi\WebApi\SelfHost\bin\Debug\SelfHost.pdb
+F:\git\TestWebApi\WebApi\WebApi\SelfHost\bin\Debug\System.Net.Http.Formatting.dll
+F:\git\TestWebApi\WebApi\WebApi\SelfHost\bin\Debug\System.Web.Http.dll
+F:\git\TestWebApi\WebApi\WebApi\SelfHost\bin\Debug\System.Web.Http.SelfHost.dll
+F:\git\TestWebApi\WebApi\WebApi\SelfHost\bin\Debug\System.Net.Http.Formatting.xml
+F:\git\TestWebApi\WebApi\WebApi\SelfHost\bin\Debug\System.Web.Http.xml
+F:\git\TestWebApi\WebApi\WebApi\SelfHost\bin\Debug\System.Web.Http.SelfHost.xml
+F:\git\TestWebApi\WebApi\WebApi\SelfHost\obj\Debug\SelfHost.csprojResolveAssemblyReference.cache
+F:\git\TestWebApi\WebApi\WebApi\SelfHost\obj\Debug\SelfHost.exe
+F:\git\TestWebApi\WebApi\WebApi\SelfHost\obj\Debug\SelfHost.pdb
