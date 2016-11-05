@@ -48,7 +48,13 @@ namespace WebApi
 
         public void Put(Contract contact)
         {
-            contacts.Remove()
+            contacts.Remove(contacts.First(c => c.Id == contact.Id));
+            contacts.Add(contact);
+        }
+
+        public void Delete(string id)
+        {
+            contacts.Remove(contacts.First(c => c.Id == id));
         }
     }
 }

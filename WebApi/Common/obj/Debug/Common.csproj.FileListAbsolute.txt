@@ -1,0 +1,5 @@
+F:\git\TestWebApi\WebApi\WebApi\Common\bin\Debug\Common.dll
+F:\git\TestWebApi\WebApi\WebApi\Common\bin\Debug\Common.pdb
+F:\git\TestWebApi\WebApi\WebApi\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\git\TestWebApi\WebApi\WebApi\Common\obj\Debug\Common.dll
+F:\git\TestWebApi\WebApi\WebApi\Common\obj\Debug\Common.pdb

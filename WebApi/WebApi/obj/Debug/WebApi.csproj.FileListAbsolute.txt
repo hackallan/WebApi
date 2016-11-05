@@ -1,0 +1,11 @@
+F:\git\TestWebApi\WebApi\WebApi\WebApi\bin\Debug\WebApi.dll
+F:\git\TestWebApi\WebApi\WebApi\WebApi\bin\Debug\WebApi.pdb
+F:\git\TestWebApi\WebApi\WebApi\WebApi\bin\Debug\Common.dll
+F:\git\TestWebApi\WebApi\WebApi\WebApi\bin\Debug\System.Web.Http.dll
+F:\git\TestWebApi\WebApi\WebApi\WebApi\bin\Debug\System.Net.Http.Formatting.dll
+F:\git\TestWebApi\WebApi\WebApi\WebApi\bin\Debug\Common.pdb
+F:\git\TestWebApi\WebApi\WebApi\WebApi\bin\Debug\System.Web.Http.xml
+F:\git\TestWebApi\WebApi\WebApi\WebApi\bin\Debug\System.Net.Http.Formatting.xml
+F:\git\TestWebApi\WebApi\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+F:\git\TestWebApi\WebApi\WebApi\WebApi\obj\Debug\WebApi.dll
+F:\git\TestWebApi\WebApi\WebApi\WebApi\obj\Debug\WebApi.pdb
