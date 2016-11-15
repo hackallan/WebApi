@@ -12,9 +12,9 @@ namespace SelfHost
     {
         static void Main(string[] args)
         {
-            //Assembly.Load("WebApi,Version=1.0.0.0,Culture=neutral");
-            Assembly.LoadFile(@"F:\git\TestWebApi\WebApi\WebApi\WebApi\bin\WebApi.dll");
-            HttpSelfHostConfiguration configuration = new HttpSelfHostConfiguration("http://localhost/slfhost");
+            Assembly.Load("WebApi,Version=1.0.0.0,Culture=neutral");
+            //Assembly.LoadFile(@"F:\git\TestWebApi\WebApi\WebApi\WebApi\bin\WebApi.dll");
+            HttpSelfHostConfiguration configuration = new HttpSelfHostConfiguration("http://localhost/selfhost");
             using (HttpSelfHostServer httpServer = new HttpSelfHostServer(configuration))
             {
                 httpServer.Configuration.Routes.MapHttpRoute(name: "DefaultApi", routeTemplate: "api/{controller}/{id}", defaults: new { id = RouteParameter.Optional });

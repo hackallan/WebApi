@@ -86,3 +86,7 @@ F:\git\TestWebApi\WebApi\WebApi\WebHost\bin\Microsoft.Owin.Security.MicrosoftAcc
 F:\git\TestWebApi\WebApi\WebApi\WebHost\obj\Debug\WebHost.csprojResolveAssemblyReference.cache
 F:\git\TestWebApi\WebApi\WebApi\WebHost\obj\Debug\WebHost.dll
 F:\git\TestWebApi\WebApi\WebApi\WebHost\obj\Debug\WebHost.pdb
+F:\git\TestWebApi\WebApi\WebApi\WebHost\bin\WebApi.dll
+F:\git\TestWebApi\WebApi\WebApi\WebHost\bin\Common.dll
+F:\git\TestWebApi\WebApi\WebApi\WebHost\bin\WebApi.pdb
+F:\git\TestWebApi\WebApi\WebApi\WebHost\bin\Common.pdb

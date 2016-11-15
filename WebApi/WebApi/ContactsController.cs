@@ -33,7 +33,7 @@ namespace WebApi
             });
         }
 
-        public IEnumerable<Contract> Get(string id=null)
+        public IEnumerable<Contract> Get(string id)
         {
             return from cont in contacts
                    where cont.Id == id || string.IsNullOrEmpty(id)

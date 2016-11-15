@@ -18,6 +18,8 @@ namespace WebHost
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            GlobalConfiguration.Configuration.Routes.MapHttpRoute(name: "Default1", routeTemplate: "api/{controller}/id", defaults: new { id = RouteParameter.Optional });
+
         }
     }
 }
